@@ -171,7 +171,7 @@ git push -u origin <your_branch_name>
 | 18.     | [Aryan Raj](https://github.com/aryanraj2713)       | [LinkedIn](https://www.linkedin.com/in/aryan-raj-3a68b39a/)               | Machine Learning is the future not web3🙂          | Python and Tensorflow 👨‍💻              |
 
 <!-- Add your names here -->
-
+| 19. | [Mohd Anas](https://github.com/MohdAnas07) | [LinkedIn](https://www.linkedin.com/in/mohd-anas-a39a6b1a4/) | I love singing <3  | JavaScript✨ & Python 🐍 |
 ---
 
 <!--END_SECTION-->
